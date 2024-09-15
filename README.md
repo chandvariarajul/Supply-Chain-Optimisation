@@ -36,7 +36,7 @@ Tools & Technologies
 - Database Management: Designed to manage supplier, inventory, and order data efficiently.
 
 
-## Data Sources
+Data Sources
 - Supplier Data**: Includes supplier revenue, delivery times, and order information.
 - Inventory Data**: Contains current inventory levels, reordering thresholds, and forecast models.
 - Order Data**: Tracks order status, shipment durations, and bottlenecks.
